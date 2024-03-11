@@ -28,4 +28,4 @@ Este proyecto tiene como objetivo principal iniciar mi carrera como freelancer e
 
 ## Contacto
 
-Si estás interesado en mi trabajo o tienes alguna consulta, no dudes en ponerte en contacto conmigo a través de [Gmail](jechavarriaa@unal.edu.co) o por medio de [LinkedIn]( www.linkedin.com/in/juan-jose-echavarria-araque-a92286296).
+Si estás interesado en mi trabajo o tienes alguna consulta, no dudes en ponerte en contacto conmigo a través de [Gmail](jechavarriaa@unal.edu.co) o por medio de [LinkedIn](www.linkedin.com/in/juan-jose-echavarria-araque-a92286296).
