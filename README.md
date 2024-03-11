@@ -21,10 +21,10 @@ Este proyecto tiene como objetivo principal iniciar mi carrera como freelancer e
 - **Bases de Datos:** MySQL, PostgreSQL, SQLite
 - **Herramientas de Desarrollo:** Git, Docker, VS Code
 
-## Visita mi portafolio para ver más de mi trabajo 
+## Visitame en estas plataformas para ver más de mi trabajo 
 
-- **Upwork:** https://www.upwork.com/workwith/juanjosee
-- **GitHub**
+- [Upwork](https://www.upwork.com/workwith/juanjosee)
+- **GitHub:**
 
 ## Contacto
 
