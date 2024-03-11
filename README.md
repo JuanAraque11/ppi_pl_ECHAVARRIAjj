@@ -1,5 +1,9 @@
 # Desarrollo de software y análisis de datos con Python
 
+## Tabla de Contenido
+
+- [Descripción](#Descripción)
+
 ## Descripción
 
 Bienvenido a mi proyecto de freelance dedicado al desarrollo de software y análisis de datos con Python. Aquí, mi enfoque se centra en ofrecer soluciones tecnológicas innovadoras y eficientes para diversas necesidades. 
