@@ -2,8 +2,8 @@
 
 ## Descripción
 
-Bienvenido a mi proyecto de freelance dedicado al desarrollo de software y análisis de datos con Python! Aquí, mi enfoque se centra en ofrecer soluciones tecnológicas innovadoras y eficientes para diversas necesidades. 
-Le invitamos a conocer mi proyecto freelance especializado en el desarrollo de software y análisis de datos utilizando Python. Mi enfoque se basa en brindar soluciones tecnológicas personalizadas que se ajusten a las necesidades específicas de cada cliente.
+Bienvenido a mi proyecto de freelance dedicado al desarrollo de software y análisis de datos con Python. Aquí, mi enfoque se centra en ofrecer soluciones tecnológicas innovadoras y eficientes para diversas necesidades. 
+Le invito a conocer mi proyecto freelance especializado en el desarrollo de software y análisis de datos utilizando Python.
 
 **Mis servicios abarcan:**
 
