@@ -35,7 +35,6 @@ Soy Juan José Echavarria Araque, estudiante de Ingeniería de Sistemas en la Un
 - **Lenguajes de Programación:** Python, Java, SQL, C
 - **Desarrollo Web:** HTML, CSS, JavaScript
 - **Bases de Datos:** MySQL, PostgreSQL, SQLite
-- **Herramientas de Desarrollo:** Git, Docker, VS Code
 
 ## Visitame en estas plataformas para ver más de mi trabajo 
 
