@@ -40,6 +40,7 @@ Soy Juan José Echavarria Araque, estudiante de Ingeniería de Sistemas en la Un
 
 - [Upwork](https://www.upwork.com/workwith/juanjosee)
 - [Fiverr](https://www.fiverr.com/juanjechav?public_mode=true)
+- [Freelancer](https://www.freelancer.com/u/JuanJEchav?sb=t)
 - [GitHub](https://github.com/JuanAraque11)
 
 ## Contacto
