@@ -6,6 +6,7 @@
 - [Acerca del Proyecto](#Acerca-del-Proyecto)
 - [Información Personal y Profesional](#Información-Personal-y-Profesional)
 - [Habilidades](#Habilidades)
+- [Mis proyectos](Mis-proyectos)
 - [Visitame en estas plataformas para ver más de mi trabajo ](#Visitame-en-estas-plataformas-para-ver-más-de-mi-trabajo)
 - [Contacto](#Contacto)
 
@@ -32,9 +33,13 @@ Soy Juan José Echavarria Araque, estudiante de Ingeniería de Sistemas en la Un
 
 ## Habilidades
 
-- **Lenguajes de Programación:** Python, Java, SQL, C
-- **Desarrollo Web:** HTML, CSS, JavaScript
-- **Bases de Datos:** MySQL, PostgreSQL, SQLite
+- **Lenguajes de Programación:** Python, Java, SQL, C.
+- **Desarrollo Web:** HTML, CSS, JavaScript.
+- **Bases de Datos:** MySQL, Oracle, SQLite.
+
+## Mis proyectos
+
+(agregar 5 proyectos)
 
 ## Visitame en estas plataformas para ver más de mi trabajo 
 
