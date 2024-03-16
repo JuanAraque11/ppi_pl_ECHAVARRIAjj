@@ -6,7 +6,7 @@
 - [Acerca del Proyecto](#Acerca-del-Proyecto)
 - [Información Personal y Profesional](#Información-Personal-y-Profesional)
 - [Habilidades](#Habilidades)
-- [Mis proyectos](Mis-proyectos)
+- [Mis proyectos](#Mis-proyectos)
 - [Visitame en estas plataformas para ver más de mi trabajo ](#Visitame-en-estas-plataformas-para-ver-más-de-mi-trabajo)
 - [Contacto](#Contacto)
 
