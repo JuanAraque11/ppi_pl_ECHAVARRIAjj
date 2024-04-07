@@ -25,7 +25,7 @@ Mi objetivo es proporcionar resultados excepcionales que impulsen el éxito de m
 
 ## Acerca del Proyecto
 
-Este proyecto marca el inicio de mi trayectoria como freelancer, centrado específicamente en el desarrollo de software y análisis de datos utilizando Python. Mi enfoque se basa en la creación de soluciones innovadoras y eficientes, aprovechando al máximo las capacidades de este lenguaje de programación versátil. Deseo colaborar en proyectos que requieran aplicaciones web dinámicas, herramientas de análisis de datos y otras soluciones tecnológicas, donde pueda aplicar mis habilidades técnicas y experiencia para abordar desafíos complejos y resolver problemas de manera efectiva.
+Este proyecto marca el inicio de mi trayectoria como freelancer, centrado específicamente en el desarrollo backend y análisis de datos utilizando Python. Mi enfoque se basa en la creación de soluciones innovadoras y eficientes, aprovechando al máximo las capacidades de este lenguaje de programación versátil. Deseo colaborar en proyectos que requieran aplicaciones web dinámicas, herramientas de análisis de datos y otras soluciones tecnológicas, donde pueda aplicar mis habilidades técnicas y experiencia para abordar desafíos complejos y resolver problemas de manera efectiva.
 
 ## Información Personal y Profesional
 
@@ -34,7 +34,6 @@ Soy Juan Araque, estudiante de Ingeniería de Sistemas en la Universidad Naciona
 ## Habilidades
 
 - **Lenguajes de Programación:** Python, Java, SQL, C.
-- **Desarrollo Web:** HTML, CSS, JavaScript.
 - **Bases de Datos:** MySQL, Oracle, SQLite.
 
 ## Mis proyectos
