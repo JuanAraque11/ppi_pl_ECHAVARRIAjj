@@ -39,6 +39,7 @@ Soy Juan Araque, estudiante de Ingeniería de Sistemas en la Universidad Naciona
 ## Mis proyectos
 
 - [Análisis de datos de clientes de un hospital](https://github.com/JuanAraque11/Anlisis_clientes/tree/main)
+- [Desarrollo backend para una carniceria](https://github.com/JuanAraque11/Gesti-n-carnicer-a-)
 
 ## Visitame en estas plataformas para ver más de mi trabajo 
 
