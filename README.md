@@ -17,7 +17,6 @@ Le invito a conocer mi proyecto freelance especializado en el desarrollo de soft
 
 **Mis servicios abarcan:**
 
-- **Desarrollo de aplicaciones web dinámicas:** Diseño y creación de aplicaciones web escalables y seguras que optimicen la experiencia del usuario.
 - **Análisis de datos:** Implementación de algoritmos y técnicas avanzadas para extraer información valiosa de grandes conjuntos de datos.
 - **Automatización de tareas:** Creación de scripts y herramientas que automatizan procesos repetitivos y tediosos, mejorando la eficiencia y productividad.
 
