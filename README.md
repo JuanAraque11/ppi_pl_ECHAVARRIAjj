@@ -3,8 +3,8 @@
 ## Tabla de Contenido
 
 - [Descripción](#Descripción)
-- [Acerca del Proyecto](#Acerca-del-Proyecto)
-- [Información Personal y Profesional](#Información-Personal-y-Profesional)
+- [Acerca del Proyecto](#Acerca-del-proyecto)
+- [Información Personal y Profesional](#Información-personal-y-profesional)
 - [Habilidades](#Habilidades)
 - [Mis proyectos](#Mis-proyectos)
 - [Visitame en estas plataformas para ver más de mi trabajo ](#Visitame-en-estas-plataformas-para-ver-más-de-mi-trabajo)
