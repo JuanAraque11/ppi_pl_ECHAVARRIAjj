@@ -18,6 +18,7 @@ Le invito a conocer mi proyecto freelance especializado en el desarrollo de soft
 **Mis servicios abarcan:**
 
 - **Análisis de datos:** Implementación de algoritmos y técnicas avanzadas para extraer información valiosa de grandes conjuntos de datos.
+- **Desarrollo backend:** Creación de la lógica y la funcionalidad que sostiene las aplicaciones web y móviles, asegurando un rendimiento robusto y una experiencia de usuario fluida.
 - **Automatización de tareas:** Creación de scripts y herramientas que automatizan procesos repetitivos y tediosos, mejorando la eficiencia y productividad.
 
 Mi objetivo es proporcionar resultados excepcionales que impulsen el éxito de mis clientes. 
