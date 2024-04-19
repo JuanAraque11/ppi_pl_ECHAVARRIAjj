@@ -56,4 +56,4 @@ Si estás interesado en mi trabajo o tienes alguna consulta, no dudes en ponerte
 
 Tambien podemos interactuar en:
 [Reddit](https://www.reddit.com/user/JuanAraque/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) y en
-[StackOverflow](https://stackoverflow.com/users/23627062/juan-jose-echavarria-araque)
+[StackOverflow](https://stackoverflow.com/users/23627062/juan-jose-echavarria-araque).
