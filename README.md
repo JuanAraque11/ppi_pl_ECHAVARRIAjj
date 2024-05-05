@@ -65,6 +65,4 @@ Tambien podemos interactuar en:
   <a href="https://www.freelancer.com/u/bluessyjazz"><img src="https://cdn.worldvectorlogo.com/logos/freelancer-1.svg" alt="Freelancer" width="50" style="margin-right: 20px;"></a>  
   <a href="https://github.com/BluessyJazz"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" alt="GitHub" width="50" style="margin-right: 20px;"></a>
   <a href="https://stackoverflow.com/users/24114620/anderson-bedoya-ciro"><img src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" alt="Stack Overflow" width="50" style="margin-right: 20px;"></a>
-  <a href="https://www.reddit.com/user/BluessyJazz/"><img src="https://cdn.worldvectorlogo.com/logos/reddit-4.svg" alt="Reddit" width="50" style="margin-right: 20px;"></a>
-  <a href="https://buymeacoffee.com/bluessyjazz"><img src="https://studio.buymeacoffee.com/assets/img/qr-logo.svg" alt="Buy Me a Coffee" width="50" style="margin-right: 20px;"></a>
-</p>
+  <a href="https://www.reddit.com/user/JuanAraque/"><img src="https://cdn.worldvectorlogo.com/logos/reddit-4.svg" alt="Reddit" width="50" style="margin-right: 20px;"></a>
