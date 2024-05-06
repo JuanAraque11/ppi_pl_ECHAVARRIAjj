@@ -26,15 +26,6 @@ Mi objetivo es proporcionar resultados excepcionales que impulsen el éxito de m
 
 Este proyecto marca el inicio de mi trayectoria como freelancer, centrado específicamente en el desarrollo backend y análisis de datos utilizando Python. Mi enfoque se basa en la creación de soluciones innovadoras y eficientes, aprovechando al máximo las capacidades de este lenguaje de programación versátil. Deseo colaborar en proyectos que requieran aplicaciones dinámicas, herramientas de análisis de datos y otras soluciones tecnológicas, donde pueda aplicar mis habilidades técnicas y experiencia para abordar desafíos complejos y resolver problemas de manera efectiva.
 
-## Información Personal y Profesional
-
-Soy Juan Araque, estudiante de Ingeniería de Sistemas en la Universidad Nacional de Colombia sede Medellín Facultad de Minas, actualmente cursando septimo semestre. Poseo conocimientos en una variedad de lenguajes de programación, incluyendo Python, Java, SQL, C, entre otros. Mi pasión por la tecnología y el desarrollo de software me impulsa a buscar oportunidades para aplicar y mejorar mis habilidades en proyectos desafiantes.
-
-## Habilidades
-
-- **Lenguajes de Programación:** Python, Java, SQL, C.
-- **Bases de Datos:** MySQL, Oracle, SQLite.
-
 ## Mis proyectos
 
 - [Análisis de datos de clientes de un hospital](https://github.com/JuanAraque11/Anlisis_clientes/tree/main)
@@ -42,7 +33,14 @@ Soy Juan Araque, estudiante de Ingeniería de Sistemas en la Universidad Naciona
 - [Guía de primeros pasos para el análisis de datos usando Python](https://github.com/JuanAraque11/Guia_AnalisisDeDatos)
 - [Analysis of the Top 1000 IMDb Movies](https://github.com/JuanAraque11/Analysis_Movies)
 
+## Habilidades
 
+- **Lenguajes de Programación:** Python, Java, SQL, C.
+- **Bases de Datos:** MySQL, Oracle, SQLite.
+
+## Información Personal y Profesional
+
+Soy Juan Araque, estudiante de Ingeniería de Sistemas en la Universidad Nacional de Colombia sede Medellín Facultad de Minas, actualmente cursando septimo semestre. Poseo conocimientos en una variedad de lenguajes de programación, incluyendo Python, Java, SQL, C, entre otros. Mi pasión por la tecnología y el desarrollo de software me impulsa a buscar oportunidades para aplicar y mejorar mis habilidades en proyectos desafiantes.
 
 ## Contacto
 
