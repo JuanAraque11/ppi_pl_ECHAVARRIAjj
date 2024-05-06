@@ -50,7 +50,7 @@ Soy Juan Araque, estudiante de Ingeniería de Sistemas en la Universidad Naciona
 
 Si estás interesado en mi trabajo o tienes alguna consulta, no dudes en ponerte en contacto conmigo a través de:
 <p>
-  <a href="mailto:jechavarriaa@unal.edu.co"><img src="https://cd.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" width="50" style="margin-right: 20px;"></a>
+  <a href="mailto:jechavarriaa@unal.edu.co"><img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Gmail" width="50" style="margin-right: 20px;"></a>
   <a href="https://www.linkedin.com/in/juan-jose-echavarria-araque-a92286296"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="50" style="margin-right: 20px;"></a>
   <a href="https://www.upwork.com/workwith/juanjosee"><img src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg" alt="Upwork" width="50" style="margin-right: 20px;"></a>
   <a href="https://www.freelancer.com/u/JuanJEchav?sb=t"><img src="https://cdn.worldvectorlogo.com/logos/freelancer-1.svg" alt="Freelancer" width="50" style="margin-right: 20px;"></a>  
