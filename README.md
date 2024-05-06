@@ -38,7 +38,6 @@ Soy Juan Araque, estudiante de Ingeniería de Sistemas en la Universidad Naciona
 ## Mis proyectos
 
 - [Análisis de datos de clientes de un hospital](https://github.com/JuanAraque11/Anlisis_clientes/tree/main)
-- [Desarrollo backend para una carniceria](https://github.com/JuanAraque11/Gestion-carniceria)
 - [Guía de primeros pasos para el desarrollo backend usando Python](https://github.com/JuanAraque11/Guia_DesarrolloBackend/tree/main)
 - [Guía de primeros pasos para el análisis de datos usando Python](https://github.com/JuanAraque11/Guia_AnalisisDeDatos)
 - [Analysis of the Top 1000 IMDb Movies](https://github.com/JuanAraque11/Analysis_Movies)
