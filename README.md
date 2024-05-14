@@ -32,6 +32,7 @@ Este proyecto marca el inicio de mi trayectoria como freelancer, centrado espec�
 - [Guía de primeros pasos para el desarrollo backend usando Python](https://github.com/JuanAraque11/Guia_DesarrolloBackend/tree/main)
 - [Guía de primeros pasos para el análisis de datos usando Python](https://github.com/JuanAraque11/Guia_AnalisisDeDatos)
 - [Analysis of the Top 1000 IMDb Movies](https://github.com/JuanAraque11/Analysis_Movies)
+- [Shoot'em Up Game](https://github.com/JuanAraque11/Juego_Shoot-em_up)
 
 ## Habilidades
 
